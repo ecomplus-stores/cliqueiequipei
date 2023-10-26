@@ -1,7 +1,7 @@
 {
   "domain": "cliqueiequipei.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#ff6100",
+  "primary_color": "#000000",
   "theme": {
     "bootswatch": "_",
     "custom": "_"
