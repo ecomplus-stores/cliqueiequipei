@@ -1,9 +1,9 @@
 {
   "marketing_stripe": {
-    "text": "Aproveite nossos descontos de até 50%!",
+    "text": "Confira nossos equipamentos!",
     "link": "/promotion",
     "color": "#ffffff",
-    "background": "#0097b2"
+    "background": "#000000"
   },
   "contacts_stripe": {
     "pages": [
