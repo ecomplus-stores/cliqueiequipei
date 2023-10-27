@@ -1,5 +1,5 @@
 {
-  "css": "",
+  "css": ".product-card__prices {\n  color: #0097b2\n}",
   "html_head": "",
   "html_body": ""
 }
