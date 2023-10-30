@@ -1,19 +1,15 @@
 {
   "marketing_stripe": {
-    "text": "Confira nossos equipamentos!",
-    "link": "/promotion",
-    "color": "#ffffff",
-    "background": "#ff6100"
+    "text": "",
+    "link": "",
+    "color": "",
+    "background": ""
   },
   "contacts_stripe": {
     "pages": [
       {
         "title": "Sobre nós",
         "link": "/pages/sobre-nos"
-      },
-      {
-        "title": "Esta loja é um PWA",
-        "link": "/posts/esta-loja-e-um-pwa"
       }
     ],
     "phone_wpp": true,
