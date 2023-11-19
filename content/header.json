@@ -8,8 +8,8 @@
   "marketing_stripe": {
     "text": "",
     "link": "",
-    "color": "",
-    "background": ""
+    "color": "#ffffff",
+    "background": "#0097b2"
   },
   "alphabetical_order_submenu": false,
   "popup": "",
@@ -19,8 +19,8 @@
   "contacts_stripe": {
     "pages": [
       {
-        "title": "Sobre nós",
-        "link": "/pages/sobre-nos"
+        "title": "Atendimento:",
+        "link": ""
       }
     ],
     "phone_wpp": true,
