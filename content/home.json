@@ -39,6 +39,22 @@
       "page": 1
     },
     {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/ja-conhece-os-amaciadores-de-carne-bermar-4-.png",
+          "mobile_img": "/img/uploads/celular.png"
+        },
+        {
+          "img": "/img/uploads/ja-conhece-os-amaciadores-de-carne-bermar-5-.png"
+        },
+        {
+          "img": "/img/uploads/ja-conhece-os-amaciadores-de-carne-bermar-6-.png",
+          "link": "https://www.youtube.com/watch?v=rOAj4wAntcI"
+        }
+      ]
+    },
+    {
       "type": "page-title",
       "title": "",
       "description": ""
