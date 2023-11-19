@@ -1,7 +1,7 @@
 {
   "description": {
-    "title": "",
-    "text": ""
+    "title": "Cliquei Equipei",
+    "text": "Cliquei Equipei é o destino definitivo para o ramo de comércios alimentícios e também para o conforto da sua casa. Aos que buscam soluções de alta qualidade para suas operações, oferecemos uma ampla gama de equipamentos robustos até os mais compactos em apenas um Clique!"
   },
   "links_1": {
     "list_pages": true,
@@ -16,7 +16,7 @@
   "contacts": {
     "title": "Contatos",
     "phone_wpp": true,
-    "socials": true,
+    "socials": false,
     "email": true,
     "address": true
   },
