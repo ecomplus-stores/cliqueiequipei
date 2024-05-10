@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.e224665546e4828d6ce1fbac27238bdb.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.9ddd409011cbb91787fc379e2850fdb7.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.20f667e35c98149a0f249c92c1cf82d2.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.78f46c1b50bdc61aefa66675d7ad41aa.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.87078be1180e73ed7669ee4a9d3b0204.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "Cliquei Equipei",
+  "short_name": "cliqueiequipei",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "O destino definitivo para o ramo de comércios alimentícios e também para o conforto da sua casa. Aos que buscam soluções de alta qualidade para suas operações, oferecemos uma ampla gama de equipamentos robustos até os mais compactos em apenas um Clique!",
+  "background_color": "#ffffff",
+  "theme_color": "#000000"
+}
